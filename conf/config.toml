@@ -13,7 +13,9 @@ subs = [
     "https://www.xrayvip.com/free.yaml",
     "https://raw.githubusercontent.com/ts-sf/fly/main/clash",
     "https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml",
-    "https://bpanel.hurricane-tx.workers.dev/86c50e3a-5b87-49dd-1234-03c7f2735e40/cl"
+    "https://bpanel.hurricane-tx.workers.dev/86c50e3a-5b87-49dd-1234-03c7f2735e40/cl",
+    "https://8jgpUP.mcsslk.xyz/4261409d9bf605f7cbfc6df1b95745d2",
+    "https://GrK8wi.tosslk.xyz/366f2f5b2a75b0205696a3be05e3316e"
 ]
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
