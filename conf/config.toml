@@ -6,16 +6,15 @@ fast_mode = false
 # 支持本地地址（绝对地址）/User/xxx/xx.yml
 # 支持单个订阅链接，ss://xxx
 subs = [
+    "https://www.xrayvip.com/free.yaml",
+    "https://raw.githubusercontent.com/ts-sf/fly/main/clash",
     "https://raw.githubusercontent.com/ReaJason/Clash-Butler/master/clash.yaml",
     "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml",
     "https://raw.githubusercontent.com/ccpthisbigdog/freedomchina/refs/heads/main/clab.yaml",
     "https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/clash.yml",
     "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
     "https://raw.githubusercontent.com/mai19950/clash_config/refs/heads/main/sub/clash.yaml",
-    "https://www.xrayvip.com/free.yaml",
-    "https://raw.githubusercontent.com/ts-sf/fly/main/clash",
     "https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml",
-    "https://bpanel.hurricane-tx.workers.dev/86c50e3a-5b87-49dd-1234-03c7f2735e40/cl",
     "https://8jgpUP.mcsslk.xyz/4261409d9bf605f7cbfc6df1b95745d2",
     "https://GrK8wi.tosslk.xyz/366f2f5b2a75b0205696a3be05e3316e"
 ]
