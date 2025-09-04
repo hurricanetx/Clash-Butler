@@ -15,8 +15,17 @@ subs = [
     "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
     "https://raw.githubusercontent.com/mai19950/clash_config/refs/heads/main/sub/clash.yaml",
     "https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml",
+    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml",
     "https://8jgpUP.mcsslk.xyz/4261409d9bf605f7cbfc6df1b95745d2",
-    "https://GrK8wi.tosslk.xyz/366f2f5b2a75b0205696a3be05e3316e"
+    "https://GrK8wi.tosslk.xyz/366f2f5b2a75b0205696a3be05e3316e",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/vmess.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/vless.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/trojan.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/ss.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/ssr.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/tuic.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/hysteria2.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Warp_sub.txt"
 ]
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
