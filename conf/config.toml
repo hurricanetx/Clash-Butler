@@ -47,6 +47,9 @@ subs = [
     "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.yaml",
     "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.yaml",
     "https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.yaml",
+    "https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+    "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
     "https://8jgpUP.mcsslk.xyz/4261409d9bf605f7cbfc6df1b95745d2",
     "https://GrK8wi.tosslk.xyz/366f2f5b2a75b0205696a3be05e3316e"
 ]
